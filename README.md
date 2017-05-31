@@ -1,2 +1,2 @@
-# WP-Starter
+# [WP-Starter]
 WordPress Starter Theme &amp; Child Theme
